@@ -14,3 +14,12 @@ Ce projet illustre le fonctionnement du protocole OAuth2, tel qu'il est impléme
 
 * Démarrer les deux applications avec `npm start`
 * Accéder à l'application cliente sur `localhost:3000`
+
+## Equipe
+
+* DUROY Maxence
+* MAIRESSE Stéphane
+* MERCIER Clément 
+
+
+* MISSLER Quentin
